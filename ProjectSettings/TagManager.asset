@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Obstacle
+  - Scoring
+  - Pipe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4066425639
+    locked: 0
+  - name: Bird
+    uniqueID: 2246390079
+    locked: 0
+  - name: Pipe
+    uniqueID: 4229125125
+    locked: 0
+  - name: Ground
+    uniqueID: 508540887
+    locked: 0
+  - name: OverGame
+    uniqueID: 2835633599
+    locked: 0
+  m_RenderingLayers:
+  - Default
